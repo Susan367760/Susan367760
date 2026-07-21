@@ -1,6 +1,7 @@
 ### 👋 Hey there! I'm Susan 
 
 CS Student | Certified Security Analyst (ISC² CC, Google Cyber) & Developer | Passionate about AppSec, SOC Ops & Web Hardening"
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/MainaXusan)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainasusan/)
 
