@@ -1,13 +1,6 @@
 ### 👋 Hey there! I'm Susan 
 
- a full stack developer who loves crafting powerful web applications. 💻
-
-🌐 I specialize in backend languages like Python, Node.js, Java, and Mysql for building the core functionality of applications.
-
-🖥️ On the frontend side, I enjoy working with JavaScript (ES6+), React.js, Vue.js, and of course, HTML/CSS to create intuitive user interfaces.
-
-🚀 Always eager to learn and explore new technologies to enhance my skills. Let's connect and collaborate on exciting projects together!
----
+CS Student | Certified Security Analyst (ISC² CC, Google Cyber) & Developer | Passionate about AppSec, SOC Ops & Web Hardening"
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/MainaXusan)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainasusan/)
 
