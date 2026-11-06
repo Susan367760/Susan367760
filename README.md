@@ -2,7 +2,7 @@
 
 <h1>👋 Hey there! I'm Susan</h1>
 
-<h3>🔐 Cybersecurity Professional | 💻 Software Developer | 🖥️ IT Specialist</h3>
+<h3>🔐  💻 Software Developer | 🖥️ IT Specialist | Cybersecurity Professional </h3>
 
 <p>
 Computer Science Graduate • Cybersecurity • Software Development • IT Support
